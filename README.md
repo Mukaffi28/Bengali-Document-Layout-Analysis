@@ -10,5 +10,10 @@ Inside this repository, you'll discover code built using Detectron 2, an open-so
 
 
 In our setup, we're arranging the path to pretrained model weights for Detectron 2, in the context of a Kaggle environment. The variable PRETRAINED_PATH holds the file path for pretrained model weights saved as model_final_weights_today.pth. This points to an earlier trained Detectron 2 model. These pretrained weights allow us to start with learned features for new tasks or further training.
+
+
 pretrained model weights: https://drive.google.com/drive/folders/12ot9XlqNYkplZepXemwGrtL8W6JAdJV0?usp=sharing
+
+
+Dataset Links: https://www.kaggle.com/competitions/dlsprint2/data 
 
